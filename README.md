@@ -1,20 +1,17 @@
-<!-- Banner de cabeçalho -->
+<!-- Seção de introdução -->
 <p align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CFFF&height=120&section=header"/>
 </p>
-
-<!-- Texto animado -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&duration=4000&color=007ACC&vCenter=true&width=500&lines=%F0%9F%91%8B+Sou+Renan+Magalh%C3%A3es;Dev.+Full+Stack+%F0%9F%92%AA" alt="Typing SVG" />
-  </a>
+<div>
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&duration=4000&color=007ACC&vCenter=true&width=500&lines=%F0%9F%91%8B+Sou+Renan+Magalh%C3%A3es;Dev.+Full+Stack+%F0%9F%92%AA" alt="Typing SVG" />
+    </a>
+  </p>
 </div>
 
-
----
-
-
-## 💻 Sobre mim
+<!-- Seção de Apresentação -->
+## 💻 Desenvolvedor Web 
 
 Desenvolvedor Web full stack, com experiência no desenvolvimento de sistemas utilizando **PHP**, **Laravel** e **JavaScript**. Atualmente, estou no último semestre do curso de Análise e Desenvolvimento de Sistemas pelo IF Baiano, trabalhando no projeto de conclusão de curso.
 
