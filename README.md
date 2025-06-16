@@ -19,7 +19,7 @@ Desenvolvedor Web full stack, com experiência no desenvolvimento de sistemas ut
 - 🚀 **Tecnologias principais:** PHP | Laravel | JavaScript | Bootstrap | MySQL | Docker
 - 🔭 **Projeto atual:** Sistema de Gestão e Priorização de Visitas (TCC)
 
----
+
 
 ## 🛠️ Tecnologias que trabalho
 
