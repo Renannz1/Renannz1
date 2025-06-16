@@ -23,12 +23,14 @@ Desenvolvedor Web full stack, com experiência no desenvolvimento de sistemas ut
 
 ## 🛠️ Tecnologias e ferramentas
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=MySQL)
-![REST API](https://img.shields.io/badge/-REST%20API-4EA94B?style=flat-square&logo=rest&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
+<p align="center">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=MySQL"/>
+  <img src="https://img.shields.io/badge/-REST%20API-4EA94B?style=flat-square&logo=rest&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff"/>
+</p>
 
 ## 🌐 Contato
 
