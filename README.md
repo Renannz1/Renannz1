@@ -11,7 +11,7 @@
 </div>
 
 <!-- Seção de Apresentação -->
-## 💻 Desenvolvedor Web 
+## 💻 Sobre mim 
 
 Desenvolvedor Web full stack, com experiência no desenvolvimento de sistemas utilizando **PHP**, **Laravel** e **JavaScript**. Atualmente, estou no último semestre do curso de Análise e Desenvolvimento de Sistemas pelo IF Baiano, trabalhando no projeto de conclusão de curso.
 
