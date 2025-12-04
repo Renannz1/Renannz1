@@ -13,11 +13,11 @@
 <!-- Seção de Apresentação -->
 ## 💻 Sobre mim 
 
-Desenvolvedor Web full stack, com experiência no desenvolvimento de sistemas utilizando **PHP**, **Laravel** e **JavaScript**. Atualmente, estou no último semestre do curso de Análise e Desenvolvimento de Sistemas pelo IF Baiano, trabalhando no projeto de conclusão de curso.
+Desenvolvedor Backend, com experiência no desenvolvimento de sistemas utilizando **PHP**, **Laravel**, **Python**, **Django**.
 
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas – IF Baiano
-- 🚀 **Tecnologias principais:** PHP | Laravel | JavaScript | Bootstrap | MySQL | Docker
-- 🔭 **Projeto atual:** Sistema de Gestão e Priorização de Visitas (TCC)
+- 🚀 **Tecnologias principais:** PHP | Laravel | Python | Django | MySQL | Docker
+- 🔭 **Projeto atual:** Conduza
 
 
 
